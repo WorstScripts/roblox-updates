@@ -1,4 +1,5 @@
 {
   "delta":  { "version": 1, "url": "https://github.com/WorstScripts/roblox-updates/releases/download/executors/Delta.apk" },
-  "arceus": { "version": 1, "url": "https://github.com/WorstScripts/roblox-updates/releases/download/executors/Arceus.apk" }
+  "arceus": { "version": 1, "url": "https://github.com/WorstScripts/roblox-updates/releases/download/executors/Arceus.apk" },
+  "worst":  { "version": 36, "url": "https://github.com/WorstScripts/roblox-updates/releases/download/worst/WORST.apk" }
 }
